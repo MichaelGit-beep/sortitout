@@ -2,6 +2,6 @@ package sortitout
 
 import "fmt"
 
-func SayBye() {
+func SayBye_Release_2() {
 	fmt.Println("Bye bye from mod")
 }
